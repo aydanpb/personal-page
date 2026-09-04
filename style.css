@@ -1,0 +1,53 @@
+body {
+    background-color:black;
+    color:thistle;
+
+}
+
+a:link {
+    color: rgb(53, 148, 138);
+}
+
+a:visited {
+    color: darkmagenta;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.resume-section {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.layout {
+    display: flex;
+    gap: 30px;
+}
+
+.main-resume {
+    flex: 1;
+}
+
+aside {
+    width: 250px;
+    padding: 10px;
+    background-color: rgb(5, 5, 74);
+    border-color:darkgray;
+    border-style: solid;
+}
+
